@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650967802013",
+    "project_id": "evann-mydailyapp",
+    "storage_bucket": "evann-mydailyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650967802013:android:78a4b94546587a9b9bf474",
+        "android_client_info": {
+          "package_name": "com.evann6.mydaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650967802013-c5dupjp35u71f6c6t9ianvh5ldnej909.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6aUUWiI4zEIzYpqSxg825phTNtJCO1jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650967802013-c5dupjp35u71f6c6t9ianvh5ldnej909.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
